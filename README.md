@@ -1,7 +1,7 @@
 
-## Leadership Philosophy
+## Security Leadership Philosophy
 
-It's a mistake to think Security is a technical job. While it requires a deep technical background, it is essentially a People job. Humans are the foundation of organizational success and the most fascinating aspect of any enterprise. This is particularly true in information security, where securing human behavior has been an ongoing challenge for decades. My mission is to create environments where exceptional individuals can thrive and drive remarkable outcomes while fostering a culture of meaningful contribution.
+It's a mistake to think Security is a technical job. While it requires a deep technical background, it is essentially a *people* job. Humans are the foundation of organizational success and the most fascinating aspect of any enterprise. This is particularly true in information security, where securing human behavior has been an ongoing challenge for decades. My mission is to create environments where exceptional individuals can thrive and drive remarkable outcomes while fostering a culture of meaningful contribution.
 
 ### Personal Values
 
