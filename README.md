@@ -22,7 +22,7 @@ It's a mistake to think Security is a technical job. While it requires a deep te
 
 - **Malcontent**: My drive for improvement can sometimes overshadow celebrating progress. Please remind me to acknowledge wins.
 - **Impatience**: When biasing for action I may at times move too quickly to solutions in areas of expertise. Feel free to encourage more discussion time. I have limited patience for learned helplessness, I expect others to share my drive for seeking better solutions. Don't stay blocked
-- **Focus**: My brain has the ability to focus intesnely on issues that I find interesting or matter deeply to the
+- **Focus**: My brain has the ability to focus intesnely on issues that I find interesting or matter deeply to the mission outcomes. That intense focus can makes me time blind, I will lose hours of the day and use reminders to get out of a flow state.
 
 ## Working Together
 
